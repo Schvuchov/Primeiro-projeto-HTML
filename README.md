@@ -1,2 +1,3 @@
 # Primeiro-projeto-HTML
-Primeiro projeto de HTML, curso de desenvolvimento web.
+Primeiro projeto de HTML do curso de desenvolvimento web.
+https://schvuchov.github.io/Primeiro-projeto-HTML/
