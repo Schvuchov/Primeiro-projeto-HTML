@@ -3,4 +3,4 @@
 
 https://schvuchov.github.io/Primeiro-projeto-HTML/
 
-Esta faltando conseguir colocar as imagens nas páginas.
+Página sobre uma universidade ficticia UNES
